@@ -1,9 +1,9 @@
 __pycache__/
 .DS_Store
 *.pyc
-reports/
-logs/
-data/
+logs/*
+reports/*
+data/*
 
 !reports/.gitkeep
 !logs/.gitkeep
